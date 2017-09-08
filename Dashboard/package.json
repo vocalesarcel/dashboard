@@ -1,0 +1,19 @@
+{
+  "name": "dashboard",
+  "version": "1.0.0",
+  "description": "Bootstrap Dashboard",
+  "private": true,
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "bootstrap": "^3.3.7"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/vocalesarcel/dashboard.git"
+  },
+  "author": "",
+  "license": "ISC"
+}
